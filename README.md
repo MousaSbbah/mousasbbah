@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mousasbbah&show_icons=true&theme=dark)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mousasbbah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousasbbah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MousaSbbah/mousasbbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
