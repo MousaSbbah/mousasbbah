@@ -6,7 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mousasbbah&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousasbbah&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mousasbbah&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousasbbah&layout=compact&theme=dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mousasbbah&theme=dark)
 
 
 ### Languages and Tools:
