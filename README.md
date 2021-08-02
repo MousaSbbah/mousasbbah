@@ -2,7 +2,7 @@
 I'm Full-Stack developer looking to solve real world problems. I have a passion for learning anything .
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mousasabah/)
 
 ### Languages and Tools:
 
