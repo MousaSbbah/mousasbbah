@@ -7,7 +7,7 @@ I'm Full-Stack developer looking to solve real world problems. I have a passion 
 ### Languages and Tools:
 
 [<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
-[<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows)
+[<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">](https://www.microsoft.com/en-us/windows) 
 [<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/)
 [<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
 [<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">](https://eslint.org/)
